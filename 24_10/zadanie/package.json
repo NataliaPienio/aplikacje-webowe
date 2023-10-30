@@ -1,0 +1,22 @@
+{
+  "name": "zad2",
+  "version": "1.0.0",
+  "description": "zadanie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc --build",
+    "run": "tsc --build && node index.js"
+  },
+  "author": "natalia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.20",
+    "@types/mysql": "^2.15.23",
+    "typescript": "^5.2.2"
+  }
+}
