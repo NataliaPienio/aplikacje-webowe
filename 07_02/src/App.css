@@ -1,0 +1,14 @@
+/*body{
+  background-color: palevioletred;
+  flex-direction: column;
+  justify-content: center;
+}
+main{
+  border: 2px solid white;
+  border-radius: 20px;
+  padding: 10px;
+}
+main:hover{
+  border: 2px solid cornflowerblue;
+}
+*/
